@@ -1,0 +1,59 @@
+body{
+	background-image: url("http://www.greenwallpaperhd.com/wp-content/uploads/Neon%20Green/3D%20-%20Neon%20-%20bacteria%20-%20Wallpapers.jpg");
+	zoom: 125%;
+}
+
+div{
+	border-style: solid;
+	background-color: white;
+	margin-top: 8px;
+	padding-left: 15px;
+	padding-bottom: 0px;
+	padding-right: 15px;
+}
+
+div.p1 {
+	border-style: solid;
+	margin-top: 8px;
+	padding-left: 15px;
+	padding-bottom: 8px;
+	padding-right: 15px;
+
+	/*sets width of navigation bar*/
+	width: 27%;
+}
+
+ul.p1 {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    margin-top: 8px;
+}
+
+li.p1 {
+	/*sets unfixed position*/
+	float: left;
+	padding-right: 7px;
+	padding-left: 7px;
+	border-style: solid;
+}
+
+/*Modifies link properties*//
+li.p1 a{
+	display: block;
+	color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*changes color of link when hovered over*/
+li.p1:hover{
+	background-color: #111;
+}
+
+p.p2 {
+	float: left;
+}

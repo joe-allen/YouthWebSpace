@@ -1,0 +1,47 @@
+/* 1) Try to use these css styles to style your page: */
+	/*
+	* border, font-size, font-color, margin, border-bottom,
+	* text-decoration, word-spacing, line-height, display,
+	* border-color, float, margin-left, margin-right.
+	*
+	* Take a look at http://www.w3schools.com/css/default.asp
+	* for more ideas.
+	*
+	*
+	*/
+
+/* 2) In your html file use the class="" attribute to target specific elements: */
+	/*
+	*
+	* Take a look at http://www.w3schools.com/cssref/sel_class.asp
+	* for ideas and help.
+	*
+	*
+	*/
+
+/* 3) Make sure to save this css file on your desktop as yourFirstName.css - Also,
+	 * make sure to reference this css stylesheet in your html like:
+	 *
+	 * <link rel="stylesheet" href="yourFirstName.css">
+	 *
+	 */
+
+
+h1{
+	color: green;
+	text-align: center;
+}
+
+body {
+    background-color: white;
+    //text-align: center; 
+
+}
+
+div{
+	border-style: groove;
+	background-color: lightblue;
+	margin-top: 8px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+}

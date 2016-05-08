@@ -1,0 +1,78 @@
+/* Nicolas' Css style sheet */
+body {
+
+	background-color: #561EAA; 
+}
+
+.header {
+	position: relative;
+	top: 10px;
+	background-color: #6FE575;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+.firstSection {
+	position: relative;
+	top: 10px;
+	background-color: #6FE575;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+
+.noHyperLinkLine {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar{
+
+	position: relative;
+	float: top;
+	background-color: #FF6E0D;
+	left:50%;
+	position: left;
+	height: 120px;
+	width: 200px;
+	border: 4px solid black;
+	border-radius: 5px;
+	margin-top: 20px;
+    margin-left: -100px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+
+}
+
+/* 1) Try to use these css styles to style your page: */
+	/*
+	* border, font-size, font-color, margin, border-bottom,
+	* text-decoration, word-spacing, line-height, display,
+	* border-color, float, margin-left, margin-right.
+	*
+	* Take a look at http://www.w3schools.com/css/default.asp
+	* for more ideas.
+	*
+	*
+	*/
+
+/* 2) In your html file use the class="" attribute to target specific elements: */
+	/*
+	*
+	* Take a look at http://www.w3schools.com/cssref/sel_class.asp
+	* for ideas and help.
+	*
+	*
+	*/
+
+/* 3) Make sure to save this css file on your desktop as yourFirstName.css - Also,
+	 * make sure to reference this css stylesheet in your html like:
+	 *
+	 * <link rel="stylesheet" href="yourFirstName.css">
+	 *
+	 */
+
+
+
+
+
